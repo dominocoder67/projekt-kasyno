@@ -9,5 +9,3 @@ Celem projektu jest analiza wypowiedzi Lebrona Jamesa
 
 #Myśl życiowa
 kazino - bu maqsad emas, balki yo'l
-
-aaaaa
