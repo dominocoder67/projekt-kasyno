@@ -6,3 +6,6 @@ Celem projektu jest analiza wypowiedzi Lebrona Jamesa
 
 #skład projektu
 3 hazardzistów zawodowych
+
+#Myśl życiowa
+kazino - bu maqsad emas, balki yo'l
