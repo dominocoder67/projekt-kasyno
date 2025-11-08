@@ -8,7 +8,6 @@ output:
     downcute_theme: "default"
 ---
 
-
 ```{r setup, include =FALSE}
 ## Global options
 knitr::opts_chunk$set(cache = TRUE)
@@ -16,3 +15,14 @@ library(tidyverse)
 library(readr)
 dane <- read_csv("https://raw.githubusercontent.com/kflisikowsky/analiza_danych_projekt_zespolowy/refs/heads/main/Samochody/Car_Prices_Poland_Kaggle.csv")
 ```
+
+**#Wstęp**
+
+**Celem niniejszego raportu jest analiza danych dotyczących cen samochodów w Polsce. Dane zostały pozyskane z platformy Kaggle i zawierają informacje na temat różnych modeli samochodów, ich cech oraz cen rynkowych.**
+
+**##Pytania badawcze**
+
+1.  **Jakie są średnie ceny samochodów w zależności od marki i modelu?**
+2.  **Jakie cechy samochodów (np. rok produkcji, przebieg, moc silnika) mają największy wpływ na ich cenę?**
+3.  **Jakie są trendy cenowe w zależności od roku produkcji samochodu?**
+4.  **Czy istnieją różnice w cenach samochodów w zależności od rodzaju?**
